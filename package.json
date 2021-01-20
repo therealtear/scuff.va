@@ -1,0 +1,25 @@
+{
+  "name": "scuff.va",
+  "version": "1.0.0",
+  "description": "Brute force a user's token using their ID",
+  "main": "scuff.va.js",
+  "scripts": {
+    "test": "node scuff.va.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.0",
+    "terminal-kit": "^1.43.0"
+  },
+  "keywords": [
+    "brute",
+    "force",
+    "discord",
+    "node"
+  ],
+  "author": "tear#1011",
+  "license": "ISC"
+}
